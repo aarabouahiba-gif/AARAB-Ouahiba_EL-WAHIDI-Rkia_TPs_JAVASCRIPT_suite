@@ -1,0 +1,28 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Développeur Vue.js",
+      "description": "Développement d'interfaces web avec Vue 3.",
+      "salary": 9000,
+      "createdAt": "2026-10-01",
+      "experience": 2
+    },
+    {
+      "id": 2,
+      "title": "Administrateur réseaux",
+      "description": "Gestion et sécurisation du réseau de l'entreprise.",
+      "salary": 11000,
+      "createdAt": "2026-10-10",
+      "experience": 4
+    },
+    {
+      "id": 3,
+      "title": "Stagiaire Data",
+      "description": "Nettoyage et analyse de données.",
+      "salary": 3000,
+      "createdAt": "2026-10-20",
+      "experience": 0
+    }
+  ]
+}
